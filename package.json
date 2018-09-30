@@ -1,0 +1,20 @@
+{
+  "name": "mspesa_mel",
+  "version": "1.0.0",
+  "description": "using mpesa texts",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melanierogan/mspesa_mel.git"
+  },
+  "author": "melanie rogan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melanierogan/mspesa_mel/issues"
+  },
+  "homepage": "https://github.com/melanierogan/mspesa_mel#readme"
+}
